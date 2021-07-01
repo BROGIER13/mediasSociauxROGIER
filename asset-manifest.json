@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/BROGIER13/mediasSociauxROGIER/static/css/main.583b09ca.chunk.css",
-    "main.js": "/BROGIER13/mediasSociauxROGIER/static/js/main.d9655b1d.chunk.js",
-    "main.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/main.d9655b1d.chunk.js.map",
-    "runtime-main.js": "/BROGIER13/mediasSociauxROGIER/static/js/runtime-main.e0bdf2af.js",
-    "runtime-main.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/runtime-main.e0bdf2af.js.map",
-    "static/js/2.e2683841.chunk.js": "/BROGIER13/mediasSociauxROGIER/static/js/2.e2683841.chunk.js",
-    "static/js/2.e2683841.chunk.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/2.e2683841.chunk.js.map",
-    "static/js/3.657e3381.chunk.js": "/BROGIER13/mediasSociauxROGIER/static/js/3.657e3381.chunk.js",
-    "static/js/3.657e3381.chunk.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/3.657e3381.chunk.js.map",
+    "main.js": "/BROGIER13/mediasSociauxROGIER/static/js/main.f48d8f2e.chunk.js",
+    "main.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/main.f48d8f2e.chunk.js.map",
+    "runtime-main.js": "/BROGIER13/mediasSociauxROGIER/static/js/runtime-main.43724597.js",
+    "runtime-main.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/runtime-main.43724597.js.map",
+    "static/js/2.11e9ccc0.chunk.js": "/BROGIER13/mediasSociauxROGIER/static/js/2.11e9ccc0.chunk.js",
+    "static/js/2.11e9ccc0.chunk.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/2.11e9ccc0.chunk.js.map",
+    "static/js/3.41ac647f.chunk.js": "/BROGIER13/mediasSociauxROGIER/static/js/3.41ac647f.chunk.js",
+    "static/js/3.41ac647f.chunk.js.map": "/BROGIER13/mediasSociauxROGIER/static/js/3.41ac647f.chunk.js.map",
     "index.html": "/BROGIER13/mediasSociauxROGIER/index.html",
     "static/css/main.583b09ca.chunk.css.map": "/BROGIER13/mediasSociauxROGIER/static/css/main.583b09ca.chunk.css.map",
-    "static/js/2.e2683841.chunk.js.LICENSE.txt": "/BROGIER13/mediasSociauxROGIER/static/js/2.e2683841.chunk.js.LICENSE.txt"
+    "static/js/2.11e9ccc0.chunk.js.LICENSE.txt": "/BROGIER13/mediasSociauxROGIER/static/js/2.11e9ccc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0bdf2af.js",
-    "static/js/2.e2683841.chunk.js",
+    "static/js/runtime-main.43724597.js",
+    "static/js/2.11e9ccc0.chunk.js",
     "static/css/main.583b09ca.chunk.css",
-    "static/js/main.d9655b1d.chunk.js"
+    "static/js/main.f48d8f2e.chunk.js"
   ]
 }
