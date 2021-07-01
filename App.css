@@ -1,0 +1,95 @@
+body{
+  background-color: lightpink;
+}
+
+footer{
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1{
+  text-align: center;
+  color : rebeccapurple;
+  text-decoration: plum wavy underline;
+  font-family:Brush Script MT, Brush Script Std, cursive;
+}
+
+h2{
+  color: floralwhite;
+
+}
+
+h3{
+  text-align: center;
+  color : lightcoral;
+  text-decoration: lightgreen underline;
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  font-size : 2.3em;
+}
+
+h5{
+  text-align: center;
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  color: peachpuff;
+  font-size : 1.6em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  padding-left: 2rem;
+  background-image: url(1562139.svg);
+  background-position: 0 0;
+  background-size: 1.2rem 1.2rem;
+  background-repeat: no-repeat;
+}
+
+hr:after {
+  content : '📸👍\2614\2615\01F648\1F602📚🎈\261D\2648🍕\2693👑🌴\01F640\26A1\01F48F🎬\26BD\26C4\26D4\26EA🤖\270D\01F649⭐🦁\1F608\26F2🚀🧇🎃\26F3\26F5📞🏠\01F48B🎨🌍🌈\264F\26F9\26FA🎮\26FD🎱\270C\2728\27B0🦋\01F64A\26BE🌵\01F525\01F604🍔🐱🚃👎💘\1F60E\01F64C👽👔🎄🍩♐💉🎹🎓🍭📸';
+  color: white;
+  margin: 5px;
+}
+
+.link{
+  color : palevioletred;
+  text-decoration:none;
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  font-size:1.5em;
+}
+
+.home{
+  padding-left: 2rem;
+}
+
+.boxhome{
+  text-align: center;
+  margin: 0 auto;
+  background-image: linear-gradient(to bottom left, mediumvioletred, orangered, yellow);
+  border: 2px solid;
+  width: 700px;
+  color: white;
+  margin-top: 50px;
+}
+
+.boxtoken{
+  text-align: center;
+  margin: 0 auto;
+  background-image: linear-gradient(to bottom left, mediumvioletred, orangered, yellow);
+  border: 2px solid;
+  width: 300px;
+  color: white;
+  margin-top: 50px;
+}
+
+img{
+  border-radius: 2%;
+  border: 5px solid white;
+}
+
+video{
+  border-radius: 2%;
+  border: 5px solid white;
+}
+
